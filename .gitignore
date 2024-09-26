@@ -129,5 +129,12 @@ dmypy.json
 .pyre/
 
 # MIS ARHIVOS A IGNORAR
-# nbg/
+archivos/
+evaluacion/
+lecciones_con_respuesta/
+nbg/
+video_notebooks/
+assignments_creation.csv
+assignments_update.csv
+macti_nbg_qs.py
 
